@@ -1,0 +1,9 @@
+This is a machine learning model that predicts whether the employee is promoted or not based on their past records.
+
+REQUIREMENTS:
+Python notebook
+Visual Studio code
+Pandas library
+Numpy library
+Matplotlib library
+Scikit-learn library
